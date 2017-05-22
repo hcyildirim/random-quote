@@ -37,7 +37,7 @@
     
     // initialize RestKit
     RKObjectManager *objectManager = [[RKObjectManager alloc] initWithHTTPClient:client];
-    [objectManager.HTTPClient setDefaultHeader:@"X-Mashape-Key" value:@"Mz7SOgTLBUmshbaVWqF3OWXVm9N6p1uVFaEjsnMVkBEqzRbn9Y"];
+    [objectManager.HTTPClient setDefaultHeader:@"X-Mashape-Key" value:@"YOUR MASHAPE KEY"];
     [objectManager.HTTPClient setDefaultHeader:@"Content-Type" value:@"application/x-www-form-urlencoded"];
     [objectManager.HTTPClient setDefaultHeader:@"Accept" value:@"application/json"];
     
