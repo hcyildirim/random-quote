@@ -1,6 +1,6 @@
 # random-quote
 
-Application that shows movies and famous quotes randomly on screen. You can see any other quote by pressing the refresh button.
+Application that shows movies and famous quotes randomly on screen. You can see any other quote by pressing the refresh button. You can access the API [here](https://market.mashape.com/andruxnet/random-famous-quotes).
 
 If you want to try the application, you have to change some things.
 
